@@ -7,7 +7,7 @@
 
 - 🌎 I'm from Brazil-SP
 - 👨🏻‍💻 Love programming and animes
-- 🧠 Love learn new languages: Russian, Chinese, Hebrew
+- 🧠 Love learn new languages: Russian, Chinese, Japanese
 - ✈️ Traveling is one of my favorite hobbies
 - 💻 Coursing analysis and systems development at FIAP
 - 📧 Reach me via just.brunot@gmail.com
