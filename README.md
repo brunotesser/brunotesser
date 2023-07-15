@@ -31,8 +31,8 @@ class About extends Me {
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/obrunotesser/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/bruno-tesser-07683b209/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/7essxr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/bruno-vinicius-santos-tesser-07683b209/)
 
 <br>
 
