@@ -1,7 +1,7 @@
 ## Welcome to my profile 🏌️
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/440952521905799169/942816659222171679/download20220201130632.png">
+  <img align="right" alt="Minha-foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/440952521905799169/942816659222171679/download20220201130632.png">
 </div>
 
 
@@ -9,9 +9,7 @@
 - 👨🏻‍💻 Love programming and animes
 - 🧠 Love learn new languages: Russian, Chinese, Japanese
 - ✈️ Traveling is one of my favorite hobbies
-- 💻 Coursing analysis and systems development
-- 📧 Reach me via just.brunot@gmail.com
-
+- 💻 Coursing analysis and systems development and Java Full-Stack at EBAC
 
 
 <br>
@@ -20,11 +18,11 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "Javascript" },
+    "ProgramingLanguages" : { "Java", "HTML", "Javascript", "CSS" },
     "OtherLanguages" : { "HTML", "CSS" },
     "Editors" : { "Vscode"},
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Canva"}
+    "Platforms" : { "Windows" },
+    "OtherTools" : { "Notion", "Canva", "GitHUb Desktop" }
   };
 }
 ```
