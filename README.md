@@ -1,4 +1,4 @@
-## Learning every day 🏌️
+## LEARNING EVERY DAY 🏌️
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Minha-foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/440952521905799169/942816659222171679/download20220201130632.png">
