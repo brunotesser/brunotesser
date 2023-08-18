@@ -30,14 +30,14 @@ class About extends Me {
 
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/7essxr/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/bruno-vinicius-santos-tesser-07683b209/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/bruno-vinicius-t/)
 
 <br>
 
 ## DATA 🧮
 <a href="https://github.com/brunotesser" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunotesser&show_icons=true&theme=chartreuse-dark" alt="João's GitHub stats" width="400px" height="195px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotesser&layout=compact&theme=chartreuse-dark" alt="Joao´s Top Langs" width="400px" height="195px"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=brunotesser&show_icons=true&theme=chartreuse-dark" alt="stats" width="400px" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotesser&layout=compact&theme=chartreuse-dark" alt="langs" width="400px" height="195px"> 
 </a>
 
 
