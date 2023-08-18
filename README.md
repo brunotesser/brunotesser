@@ -19,7 +19,6 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Java", "HTML", "Javascript", "CSS" },
-    "OtherLanguages" : { "HTML", "CSS" },
     "Editors" : { "Vscode"},
     "Platforms" : { "Windows" },
     "OtherTools" : { "Notion", "Canva", "GitHUb Desktop" }
