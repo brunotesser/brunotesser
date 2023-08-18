@@ -1,4 +1,4 @@
-## Welcome to my profile 🏌️
+## Learning every day 🏌️
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Minha-foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/440952521905799169/942816659222171679/download20220201130632.png">
@@ -6,7 +6,7 @@
 
 
 - 🌎 I'm from Brazil-SP
-- 👨🏻‍💻 Love programming and animes
+- 👨🏻‍💻 Discipline and Action
 - 🧠 Love learn new languages: Russian, Chinese, Japanese
 - ✈️ Traveling is one of my favorite hobbies
 - 💻 Coursing analysis and systems development and Java Full-Stack at EBAC
