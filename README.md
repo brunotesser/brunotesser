@@ -15,6 +15,7 @@ Crio produtos do zero — da ideia ao deploy. Repositórios privados por design.
 | **Daikoku** | App de gestão editorial para agências — áreas, cards de conteúdo agendados com roteiro, CTA e link do Drive | Next.js · Prisma · PostgreSQL |
 | **Docs-bot** | Assistente de atendimento via WhatsApp com IA — responde dúvidas, qualifica leads e encaminha pro time | Node.js · Baileys · Gemini API |
 | **[Silent Cut](https://github.com/brunotesser/silent-cut)** | App open source que detecta e corta silêncios de vídeos automaticamente — acelera edição de podcasts e entrevistas | Open Source |
+| **[漢字 N3](https://github.com/brunotesser/kanji-n3)** | App iOS para estudo de japonês JLPT N3/N4/N5 — SRS próprio, 2113+ entradas de vocabulário, mnemônicos por IA, 100% offline | Capacitor · Vanilla JS · Open Source |
 
 ---
 
