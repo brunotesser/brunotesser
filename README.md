@@ -1,43 +1,39 @@
-## LEARNING EVERY DAY 躾
+# Bruno Tesser · ブルーノ
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Minha-foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/440952521905799169/942816659222171679/download20220201130632.png">
-</div>
+**Developer building from Tokyo** · 東京在住  
+Morei no Brasil. Moro no Japão. Construo coisas que resolvem problemas reais.
 
+---
 
-- 🌎 I'm from Brazil-SP
-- 🏌️ Discipline and Action
-- 🧠 Love learn new languages: Russian, Chinese, Japanese
-- ✈️ Traveling is one of my favorite hobbies
-- 💻 Coursing analysis and systems development and Java Full-Stack at EBAC
+### O que estou construindo agora
 
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Projeto Japão](https://brunotesser.squareweb.app)** | Treinamento pra brasileiros que querem morar no Japão | Next.js · TypeScript |
+| **Tesseract** | Plataforma editorial white-label multi-tenant | Next.js · Prisma · PostgreSQL |
+| **Carla** | Assistente de atendimento via WhatsApp com IA | Node.js · Gemini API |
 
-<br>
+---
 
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "HTML", "Javascript", "CSS" },
-    "Editors" : { "Vscode"},
-    "Platforms" : { "Windows" },
-    "OtherTools" : { "Notion", "Canva", "GitHUb Desktop" }
-  };
-}
+### Stack atual
+
+```
+Languages   TypeScript · JavaScript · SQL · Japanese (N5→)
+Frontend    Next.js 14 · React · CSS Modules
+Backend     Node.js · Prisma · PostgreSQL
+Deploy      Square Cloud · Vercel
+Tools       Claude Code · GitHub · Antigravity
 ```
 
+---
 
+### Onde me encontrar
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/7essxr/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/bruno-vinicius-t/)
+- Site → [brunotesser.squareweb.app](https://brunotesser.squareweb.app)
+- YouTube → [@brunotesserjapao](https://www.youtube.com/@brunotesserjapao)
+- Instagram → [@brunotesser](https://www.instagram.com/7essxr/)
+- Localização → Tóquio · 東京 · UTC+9
 
-<br>
+---
 
-## DATA 🧮
-<a href="https://github.com/brunotesser" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunotesser&show_icons=true&theme=chartreuse-dark" alt="stats" width="400px" height="195px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotesser&layout=compact&theme=chartreuse-dark" alt="langs" width="400px" height="195px"> 
-</a>
-
-
-
+<sub>372 contribuições no último ano · Tóquio desde 10·ABR·2025 · Construindo em público</sub>
