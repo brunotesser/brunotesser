@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,50:8B7AB8,100:F5F1E8&height=220&section=header&text=サントス田村&fontColor=ffffff&fontSize=70&desc=Santos%20Tamura%20·%20Developer&descAlignY=78&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,50:8B7AB8,100:F5F1E8&height=220&section=header&text=サントス田村&fontColor=ffffff&fontSize=70&desc=Santos%20Tamura%20·%20Builder&descAlignY=78&descSize=16&animation=fadeIn)
 
 # サントス田村 · Santos Tamura
 
-**Developer · 東京在住** · Tokyo  
+**Builder · 東京在住** · Tokyo  
 Building products from scratch — idea to production. Private repos by design.
 
 ---
@@ -24,7 +24,6 @@ Building products from scratch — idea to production. Private repos by design.
 ### Activity · 活動
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunotesser&hide_border=true&include_all_commits=true&bg_color=F5F1E8&title_color=1B2A41&text_color=2D4A3E&icon_color=8B7AB8" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotesser&hide_border=true&layout=compact&bg_color=F5F1E8&title_color=1B2A41&text_color=2D4A3E" height="180"/>
 </p>
 
